@@ -13,6 +13,3 @@ This suite includes:
 - **AES (Advanced Engineering Standards)**  
   Low-level hardware and software interface specifications, including precise architectural and physical design rules.
 
----
-
-© rost — 2025
